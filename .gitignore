@@ -1,0 +1,2 @@
+# Keep credentials out of version control
+secrets.h
